@@ -11,4 +11,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
