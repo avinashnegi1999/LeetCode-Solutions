@@ -1,16 +1,11 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        # ! Base case: if number is already a single digit, return it
-        if num < 10:
-            return num
+        # ! Edge case: if number is 0, result is 0 (digital root rule)
+        if num == 0:
+            return 0
         
-        # * Initialize sum of digits
-        digit_sum = 0
-        
-        # * Extract and add each digit
-        while num > 0:
-            digit_sum += num % 10   # add last digit
-            num //= 10             # remove last digit
-        
-        # TODO: Recursively call function until result becomes single digit
-        return self.addDigits(digit_sum)
+        # * Use Digital Root formula:
+        # * Repeated sum of digits follows a pattern in modulo 9
+        # * This avoids loops/recursion and runs in O(1)
+        # * Formula: 1 + (num - 1) % 9
+        return 1 + (num - 1) % 9
