@@ -25,6 +25,7 @@ A collection of my solutions to LeetCode problems, automatically synced with Lee
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
