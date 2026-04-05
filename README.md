@@ -19,3 +19,15 @@ A collection of my solutions to LeetCode problems, automatically synced with Lee
 - Math  
 - Simulation  
 - Number Theory  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/avinashnegi1999/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+<!---LeetCode Topics End-->
